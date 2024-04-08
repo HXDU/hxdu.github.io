@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two of my works have been accpected by 
-date: 2015-11-07 16:11:00-0400
+date: 2024-02-17 16:11:00-0400
 inline: false
 related_posts: false
 ---
